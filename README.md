@@ -16,14 +16,6 @@ Fastapi-users 10.0.6
 
 Pydantic 1.10.7
 
-### Автор
-
-Никита Сергеевич Федяев
-
-Telegram: [@nsfed](https://t.me/nsfed)
-
-Репозиторий: [GitHub](git@github.com:Fedoska48/room_reservation.git)
-
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
